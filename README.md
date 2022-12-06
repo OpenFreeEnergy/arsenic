@@ -1,3 +1,6 @@
+# NOTE: This repository is not actively maintained by the OpenFE team and is superseded by [cinnabar](https://github.com/OpenFreeEnergy/cinnabar).
+
+
 arsenic
 ==============================
 [//]: # (Badges)
